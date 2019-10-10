@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bg-black {
+  background-color: #000;
+}
+.bg-black h1 {
+  color: #fff;
+  padding: 5px;
+}
+
+.search {
+  width: 100%;
+  margin: auto;
+  margin-top: 10px;
+}
+.card {
+  border: 0px;
+  border-radius: 0px;
+}
+.card-body .card-title {
+  margin-bottom: -10px;
+  font-size: 20px;
+  font-weight: bold;
+  height: 40px;
+}
+img.movie-poster {
+  height: 300px;
+}
